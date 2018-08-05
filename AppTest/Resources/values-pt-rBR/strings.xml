@@ -1,0 +1,8 @@
+﻿<resources>
+  <string name="app_name">Fingerprint Auth</string>
+  <string name="button_fingerprint_text">Requisição de impressão digital</string>
+  <string name="dialog_fingerprint_title">Autenticação</string>
+  <string name="dialog_fingerprint_message">Coloque a ponta do seu dedo no sensor para continuar.</string>
+  <string name="auth_succeeded">Autenticação bem-sucedida.</string>
+  <string name="auth_failed">Autenticação falhou.</string>
+</resources>

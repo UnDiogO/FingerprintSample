@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Fingerprint Auth</string>
+  <string name="button_fingerprint_text">Fingerprint request</string>
+  <string name="dialog_fingerprint_title">Authentication</string>
+  <string name="dialog_fingerprint_message">Place your fingertip on the sensor to continue.</string>
+  <string name="auth_succeeded">Authentication succeeded.</string>
+  <string name="auth_failed">Authentication failed.</string>
+</resources>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0.0" package="com.diogosapessoa.fingerprintapp" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="23" android:targetSdkVersion="27" />
+	<application android:allowBackup="true" android:label="@string/app_name" android:supportsRtl="true"></application>
+	<uses-permission android:name="android.permission.USE_FINGERPRINT" />
+	<uses-feature android:name="android.hardware.fingerprint" android:required="false" />
+</manifest>
